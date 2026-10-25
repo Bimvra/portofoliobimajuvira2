@@ -1,0 +1,7 @@
+# Executables & large files
+*.exe
+asset2/Antigravity-x64.exe
+
+# OS generated files
+.DS_Store
+Thumbs.db
